@@ -1,0 +1,35 @@
+body{
+    margin:0
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    margin: auto;
+    margin-top: 30px;
+    transition: 2s all;
+
+}
+.div1:hover{
+    background-color: yellowgreen;
+    border-radius: 40%;
+
+}
+a{
+    color: white;
+   margin:40px;
+
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: 700;
+    background-color: white;
+    color: darkblue;
+}
+.navbar{
+    background-color: black;
+    border:12px solid yellow;
+    margin-left: 120px;
+    margin-right: 120px;
+}
